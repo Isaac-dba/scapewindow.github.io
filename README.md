@@ -1,3 +1,3 @@
-# scapewindow
+# scape-window
 new proyect
 <!-- -->
