@@ -9,6 +9,5 @@ import Pp from './App.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <Pp />
   </StrictMode>
 );
