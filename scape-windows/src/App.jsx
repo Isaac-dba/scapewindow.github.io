@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-function App() {
+export function App() {
   const [count, setCount] = useState(0)
 
   return (
@@ -33,7 +33,7 @@ function App() {
 }
 
 export function Pp() {
-  const Str = "hola1";
+  const Str = "hola83";
   return (
     <>
       <p>{Str}</p>
