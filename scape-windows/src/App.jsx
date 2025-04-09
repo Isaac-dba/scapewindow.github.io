@@ -32,4 +32,12 @@ function App() {
   )
 }
 
-export default App
+function Pp() {
+  const Str = "hola";
+  return (
+    <>
+      <p>{Str}</p>
+    </>
+  )
+}
+export default Pp
