@@ -32,7 +32,7 @@ function App() {
   )
 }
 
-function Pp() {
+export function Pp() {
   const Str = "hola1";
   return (
     <>
