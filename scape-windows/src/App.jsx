@@ -33,11 +33,11 @@ function App() {
 }
 
 function Pp() {
-  const Str = "hola2";
+  const Str = "hola1";
   return (
     <>
       <p>{Str}</p>
     </>
   )
 }
-export default Pp;
+export default App;
