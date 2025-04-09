@@ -33,7 +33,7 @@ function App() {
 }
 
 function Pp() {
-  const Str = "hola";
+  const Str = "hola2";
   return (
     <>
       <p>{Str}</p>
