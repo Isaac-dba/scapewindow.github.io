@@ -9,6 +9,7 @@ import Pp from './App.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
+    <Pp />
   </StrictMode>
   // <>
   //     <App />
@@ -16,9 +17,9 @@ createRoot(document.getElementById('root')).render(
   // </>
 );
 createRoot(document.getElementById('root2')).render(
-  <StrictMode>
-    <Pp />
-  </StrictMode>
+  // <StrictMode>
+  //   <Pp />
+  // </StrictMode>
   // <>
   //     <App />
   //     <Pp /> 
