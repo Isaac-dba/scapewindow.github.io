@@ -33,3 +33,10 @@ function App() {
 }
 
 export default App;
+export function Pp(){
+  return(
+    <>
+        <h1>hola 33</h1>
+    </>
+  )
+}
