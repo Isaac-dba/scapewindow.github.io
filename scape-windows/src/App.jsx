@@ -32,7 +32,11 @@ function App() {
   // )
 
   //juego de prueba tic tac toc
-  return <h1>hola</h1>;
+  return (
+    <>
+        <h1>hola h1</h1>
+    </>
+  );
     
 }
 export default App;
