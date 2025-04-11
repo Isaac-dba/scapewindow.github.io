@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-export function App() {
+function App() {
   const [count, setCount] = useState(0)
 
   return (
@@ -26,18 +26,9 @@ export function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the Vite and React logos to learn more y mas
       </p>
     </>
   )
 }
-
-// export default App;
-function Pp(){
-  return(
-    <>
-        <h1>hola 33</h1>
-    </>
-  )
-}
-export default Pp;
+export default App;
